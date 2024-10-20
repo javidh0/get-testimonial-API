@@ -1,0 +1,24 @@
+{
+  "name": "get-testimonial-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javidh0/get-testimonial-API.git"
+  },
+  "author": "Javidh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javidh0/get-testimonial-API/issues"
+  },
+  "homepage": "https://github.com/javidh0/get-testimonial-API#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2"
+  }
+}
